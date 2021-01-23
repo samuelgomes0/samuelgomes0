@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello there 👋
 
-<!--
-**Saesel/Saesel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤔 About Me
+Information Systems student at **[Universidade Federal do Rio Grande](https://www.furg.br/en/)**. Front-end developer looking for opportunities. **Cardano** digital currency enthusiast. Currently living in Rio Grande, Brazil.
 
-Here are some ideas to get you started:
+* 🔭 I’m currently studying **Information Systems** at **FURG**
+* 🌱 I’m currently learning **JavaScript** and **Python**
+* ⚙️ Mastering **HTML** and **CSS**
+* ⚡ Fun fact: I'm a huge fan of Doctor Who
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Get in Touch
+* **[E-mail](samuelgomes@furg.br)**
+* **[Instagram](instagram.com/samuelgomes0)**
+* **[Twitter](twitter.com/samuelgomes0)**
