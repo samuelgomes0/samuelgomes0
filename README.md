@@ -10,5 +10,5 @@ Information Systems student at **[Universidade Federal do Rio Grande](https://ww
 
 ### 📬 Get in Touch
 * **[E-mail](samuelgomes@furg.br)**
-* **[Instagram](instagram.com/samuelgomes0)**
-* **[Twitter](twitter.com/samuelgomes0)**
+* **[Instagram](https://instagram.com/samuelgomes0)**
+* **[Twitter](https://twitter.com/samuelgomes0)**
