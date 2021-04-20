@@ -6,7 +6,8 @@ Information Systems student at **[Universidade Federal do Rio Grande](https://ww
 * 🔭 I’m currently studying **Information Systems** at **FURG**
 * 🏢 I'm currently doing a trainee at **Byte Jr**
 * 🌱 I’m currently learning **jQuery** and **Node.js**
-* ⚙️ Mastering <code>.html</code>, <code>.css</code> and <code>.js</code>
+* ⚙️ Mastering **HTML**, **CSS** and **JavaScript**
+* 📚 Aiming to study **Vue.js**, **React** and **PHP**
 * ⚡ Fun fact: I'm a huge fan of Doctor Who and Harry Potter
 
 ### 📬 Get in Touch
