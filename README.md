@@ -11,7 +11,7 @@ Information Systems student at **[Universidade Federal do Rio Grande](https://ww
 * ⚡ Fun fact: I'm a huge fan of Doctor Who and Harry Potter
 
 ### 📬 Get in Touch
-* **[E-mail](mailto:samuelgomes@furg.br)**
+* **[E-mail](mailto:samuel_gomes26@hotmail.com)**
 * **[Instagram](https://instagram.com/samuelgomes0)**
 * **[LinkedIn](https://linkedin.com/in/samuelgomes0/)**
 * **[Twitter](https://twitter.com/samuelgomes0)**
