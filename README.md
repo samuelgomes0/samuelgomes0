@@ -10,6 +10,12 @@ Information Systems student at **[Universidade Federal do Rio Grande](https://ww
 * 📚 Aiming to study **Next.js**, **Vue.js** and **Electron**
 * ⚡ Fun fact: I'm a huge fan of Doctor Who and Harry Potter
 
+### ⚙️ Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+
 ### 📬 Get in Touch
 * **[E-mail](mailto:samuel_gomes26@hotmail.com)**
 * **[Instagram](https://instagram.com/samuelgomes0)**
