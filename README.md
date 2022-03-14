@@ -3,7 +3,7 @@
 ### 🤔 About Me
 Information Systems student at **[Universidade Federal do Rio Grande](https://www.furg.br/en/)**. Developer at **[Byte Jr](https://www.bytejr.com.br/)**. Front-End developer looking for new opportunities. Digital coin enthusiast. Currently living in Rio Grande, Brazil.
 
-* 🎓 I’m currently studying **Information Systems** at **FURG** (2/4)
+* 🎓 I’m currently studying **Information Systems** at **FURG** (3/4)
 * 🏢 I'm currently working at **Byte Jr**
 * 🌱 I’m currently learning **JavaScript**, **React** and **TypeScript**
 * 📚 Aiming to study **Next.js**, **Vue.js** and **Electron**
