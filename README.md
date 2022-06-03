@@ -17,6 +17,7 @@ Information Systems student at **[Universidade Federal do Rio Grande](https://ww
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components)
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 
 ### 📬 Get in Touch
 * **[E-mail](mailto:samuel_gomes26@hotmail.com)**
