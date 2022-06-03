@@ -5,7 +5,7 @@ Information Systems student at **[Universidade Federal do Rio Grande](https://ww
 
 * 🎓 I’m currently studying **Information Systems** at **FURG** (3/4)
 * 🏢 I'm currently working at **Compass.uol**
-* 🌱 I’m currently studying **JavaScript** and **Git**
+* 🌱 I’m currently studying **JavaScript**, **Node.js** & **MongoDB**
 * 📚 Aiming to study **Microsoft Bot Framework** and **Twilio API**
 * ⚡ Fun fact: I'm a huge fan of Doctor Who and Harry Potter
 
