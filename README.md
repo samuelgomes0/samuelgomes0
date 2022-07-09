@@ -5,8 +5,8 @@ Information Systems student at **[Universidade Federal do Rio Grande](https://ww
 
 * 🎓 I’m currently studying **Information Systems** at **FURG** (3/4)
 * 🏢 I'm currently working at **Compass.uol**
-* 🌱 I’m currently studying **JavaScript**, **Node.js** & **MongoDB**
-* 📚 Aiming to study **Microsoft Bot Framework** and **Twilio API**
+* 🌱 I’m currently studying **JavaScript**, **Node.js** & **Microsoft Bot Framework**
+* 📚 Aiming to study **Mongo DB**
 * ⚡ Fun fact: I'm a huge fan of Doctor Who and Harry Potter
 
 ### ⚙️ Tech Stack
@@ -18,6 +18,7 @@ Information Systems student at **[Universidade Federal do Rio Grande](https://ww
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Twilio](https://img.shields.io/badge/-Twilio-05122A?style=flat&logo=twilio)
 
 ### 📬 Get in Touch
 * **[E-mail](mailto:samuel_gomes26@hotmail.com)**
