@@ -5,8 +5,8 @@ Full-Stack Developer. Information Systems student at **[Universidade Federal do 
 
 * 🎓 I’m currently studying **Information Systems** at **FURG** (3/4)
 * 🏢 I'm currently working at **Compass UOL**
-* 🌱 I’m currently learning **NodeJS**, **SocketIO** & **Microsoft Bot Framework**
-* 📚 Aiming to study **MySQL**
+* 🌱 I’m currently learning **NodeJS**, **SocketIO**,  & **PostgreSQL**
+* 📚 Aiming to study **NestJS**
 * ⚒️ Developing a **[Webchat](https://github.com/Saesel/webchat)**
 * ⚡ Fun fact: I'm a huge fan of **Doctor Who** and **Harry Potter**
 
