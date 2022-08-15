@@ -1,11 +1,11 @@
 ## Hello there 👋
 
 ### 🤔 About Me
-Full-Stack Developer. Information Systems student at **[Universidade Federal do Rio Grande](https://www.furg.br/en/)**. Chatbot Developer Intern at **[Compass UOL](https://www.compass.uol/)**. Digital coin enthusiast. Currently living in Rio Grande, Brazil.
+Full-Stack Developer. Information Systems student at **[Universidade Federal do Rio Grande](https://www.furg.br/en/)**. Currently looking for **oportunities**. Digital coin enthusiast. Currently living in Rio Grande, Brazil.
 
 * 🎓 I’m currently studying **Information Systems** at **FURG** (3/4)
-* 🏢 I'm currently working at **Compass UOL**
-* 🌱 I’m currently learning **NodeJS**, **SocketIO**,  & **PostgreSQL**
+* 🏢 I'm currently looking for oportunities
+* 🌱 I’m currently learning **NodeJS**, **SocketIO**  & **PostgreSQL**
 * 📚 Aiming to study **NestJS**
 * ⚒️ Developing a **[Webchat](https://github.com/Saesel/webchat)**
 * ⚡ Fun fact: I'm a huge fan of **Doctor Who** and **Harry Potter**
