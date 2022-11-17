@@ -1,14 +1,14 @@
 ## Hello there 👋
 
 ### 🤔 About Me
-Full-Stack Developer. Information Systems student at **[Universidade Federal do Rio Grande](https://www.furg.br/en/)**. Currently looking for **oportunities**. Digital coin enthusiast. Currently living in Rio Grande, Brazil.
+Full-Stack Developer. Information Systems student at **[Universidade Federal do Rio Grande](https://www.furg.br/en/)**. Chatbot Developer at **[Compass UOL](https://compass.uol/en/home/)**. Currently living in Rio Grande, Brazil.
 
 * 🎓 I’m currently studying **Information Systems** at **FURG** (3/4)
-* 🏢 I'm currently looking for oportunities
-* 🌱 I’m currently learning **NodeJS**, **SocketIO**  & **PostgreSQL**
-* 📚 Aiming to study **NestJS**
+* 🏢 I'm currently working at **Compass UOL**
+* 🌱 I’m currently learning **Twilio** & **Node.JS**
+* 📚 Aiming to study **Nest.JS**
 * ⚒️ Developing a **[Webchat](https://github.com/Saesel/webchat)**
-* ⚡ Fun fact: I'm a huge fan of **Doctor Who** and **Harry Potter**
+* ⚡ Fun fact: I'm a huge fan of **Arctic Monkeys**, **Doctor Who** & **Harry Potter**
 
 ### ⚙️ Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
