@@ -5,9 +5,9 @@ Full-Stack Developer. Information Systems student at **[Universidade Federal do 
 
 * 🎓 I’m currently studying **Information Systems** at **FURG** (3/4)
 * 🏢 I'm currently working at **Compass UOL**
-* 🌱 I’m currently learning **Twilio** & **Node.JS**
-* 📚 Aiming to study **Nest.JS**
-* ⚒️ Developing a **[Webchat](https://github.com/Saesel/webchat)**
+* 🌱 I’m currently learning **Twilio**, **Node.JS** & **React.JS**
+* 📚 Aiming to study **TypeScript** & **Machine Learning**
+* ⚒️ Developing a **[Webchat](https://github.com/Saesel/webchat)** & a **[Spotify Application](https://github.com/Saesel/spotizou)**
 * ⚡ Fun fact: I'm a huge fan of **Arctic Monkeys**, **Doctor Who** & **Harry Potter**
 
 ### ⚙️ Tech Stack
