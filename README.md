@@ -3,7 +3,7 @@
 ### 🤔 About Me
 Full-Stack Developer. Information Systems student at **[Universidade Federal do Rio Grande](https://www.furg.br/en/)**. Chatbot Developer at **[Compass UOL](https://compass.uol/en/home/)**. Currently living in Rio Grande, Brazil.
 
-* 🎓 I’m currently studying **Information Systems** at **FURG** (3/4)
+* 🎓 I’m currently studying **Information Systems** at **FURG** (4/4)
 * 🏢 I'm currently working at **Compass UOL**
 * 🌱 I’m currently learning **Twilio**, **Node.JS** & **React.JS**
 * 📚 Aiming to study **TypeScript** & **Machine Learning**
