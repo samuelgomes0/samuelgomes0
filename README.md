@@ -5,8 +5,8 @@ Full-Stack Developer. Information Systems student at **[Universidade Federal do 
 
 * 🎓 I’m currently studying **Information Systems** at **FURG** (4/4)
 * 🏢 I'm currently working at **Compass UOL**
-* 🌱 I’m currently learning **Twilio**, **Redux** & **Tailwind**
-* 📚 Aiming to study **Next.JS**, **TypeScript** & **Machine Learning**
+* 🌱 I’m currently learning **Next.JS** & **Tailwind**
+* 📚 Aiming to study **TypeScript**, **Redux** & **Machine Learning**
 * ⚒️ Developing a **[Webchat](https://github.com/Saesel/webchat)** & a **[Spotify Application](https://github.com/Saesel/spotizou)**
 * ⚡ Fun fact: I'm a huge fan of **Arctic Monkeys**, **Doctor Who** & **Harry Potter**
 
@@ -16,10 +16,9 @@ Full-Stack Developer. Information Systems student at **[Universidade Federal do 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React.JS](https://img.shields.io/badge/-React.JS-05122A?style=flat&logo=react)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components)
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-05122A?style=flat&logo=node.js)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-05122A?style=flat&logo=socket.io)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Twilio](https://img.shields.io/badge/-Twilio-05122A?style=flat&logo=twilio)
 
 ### 📬 Get in Touch
 * **[E-mail](mailto:samuel_gomes26@hotmail.com)**
