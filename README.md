@@ -16,6 +16,7 @@ Full-Stack developer. Information Systems student at **[Universidade Federal do 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React.JS](https://img.shields.io/badge/-React.JS-05122A?style=flat&logo=react)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components)
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind-css)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-05122A?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Twilio](https://img.shields.io/badge/-Twilio-05122A?style=flat&logo=twilio)
