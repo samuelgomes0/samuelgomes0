@@ -5,7 +5,7 @@ Full-Stack developer. Information Systems student at **[Universidade Federal do 
 
 * 🎓 I’m currently studying **Information Systems** at **FURG** (4/4)
 * 🏢 I'm currently working at **Compass UOL**
-* 🌱 I’m currently learning **Next.JS** & **Tailwind**
+* 🌱 I’m currently learning **Jest**, **C#** and **Unity**
 * 📚 Aiming to study **TypeScript**, **Data Science** & **Machine Learning**
 * ⚒️ Developing a **[Spotify Application](https://github.com/Saesel/spotizou)**
 * ⚡ Fun fact: I'm a huge fan of **Arctic Monkeys**, **Doctor Who** & **Harry Potter**
