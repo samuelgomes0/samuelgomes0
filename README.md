@@ -1,14 +1,14 @@
 ## Hello there 👋
 
 ### 🤔 About Me
-Full-Stack developer. Information Systems student at **[Universidade Federal do Rio Grande](https://www.furg.br/en/)**. Chatbot Developer at **[Compass UOL](https://compass.uol/en/home/)**. Currently living in Rio Grande, Brazil.
+Full-Stack developer. Information Systems student at **[Universidade Federal do Rio Grande](https://www.furg.br/en/)**. Twilio Chatbot Developer at **[Compass UOL](https://compass.uol/en/home/)**. Currently living in Rio Grande, Brazil.
 
 * 🎓 I’m currently studying **Information Systems** at **FURG** (4/4)
 * 🏢 I'm currently working at **Compass UOL**
-* 🌱 I’m currently learning **Jest**, **C#** and **Unity**
-* 📚 Aiming to study **TypeScript**, **Data Science** & **Machine Learning**
+* 🌱 I’m currently learning **Artificial Inteligence** and **Mongo DB**
+* 📚 Aiming to study **TypeScript**
 * ⚒️ Developing a **[Spotify Application](https://github.com/Saesel/spotizou)**
-* ⚡ Fun fact: I'm a huge fan of **Arctic Monkeys**, **Doctor Who** & **Harry Potter**
+* ⚡ Fun fact: I'm a huge fan of **Arctic Monkeys**, **Doctor Who** and **Harry Potter**
 
 ### ⚙️ Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
