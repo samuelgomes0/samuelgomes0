@@ -7,7 +7,7 @@ Full-Stack developer. Information Systems student at **[Universidade Federal do 
 * 🏢 I'm currently working at **Compass UOL**
 * 🌱 I’m currently learning **Artificial Inteligence** and **Mongo DB**
 * 📚 Aiming to study **TypeScript**
-* ⚒️ Developing a **[Spotify Application](https://github.com/Saesel/spotizou)**
+* ⚒️ Developing a **[Spotify Application](https://github.com/Saesel/chartify)**
 * ⚡ Fun fact: I'm a huge fan of **Arctic Monkeys**, **Doctor Who** and **Harry Potter**
 
 ### ⚙️ Tech Stack
