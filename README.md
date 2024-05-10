@@ -7,7 +7,7 @@ Full-Stack developer. Information Systems student at **[Universidade Federal do 
 * 🏢 I'm currently working at **Compass UOL**
 * 🌱 I’m currently learning **TypeScript** and **PostgreSQL**
 * 📚 Aiming to study **Artificial Inteligence**
-* ⚒️ Developing **[Cadê meu pet?](https://github.com/saesel/cademeupet)**
+* ⚒️ Developing **[Cadê meu pet?](https://github.com/saesel/cademeupet)** to help find lost animals
 * ⚡ Fun fact: I'm a huge fan of **Arctic Monkeys**, **Doctor Who** and **Harry Potter**
 
 ### ⚙️ Tech Stack
