@@ -1,10 +1,10 @@
 ## Hello there 👋
 
 ### 🤔 About Me
-Full-Stack developer. Information Systems student at **[Universidade Federal do Rio Grande](https://www.furg.br/en/)**. Twilio Chatbot Developer at **[Compass UOL](https://compass.uol/en/home/)**. Currently living in Rio Grande, Brazil.
+I am a Full-Stack Developer and Information Systems student at **[Universidade Federal do Rio Grande](https://www.furg.br/en/)**, currently working as a Twilio Chatbot Developer at **[Compass UOL](https://compass.uol/en/home/)**. I reside in Rio Grande, Brazil.
 
 * 🎓 I’m currently studying **Information Systems** at **FURG** (4/4)
-* 🏢 I'm currently working at **Compass UOL**
+* 🏢 I'm currently working at **Compass UOL** focusing on Chatbot Development with Twilio
 * 🌱 I’m currently learning **TypeScript**, **PostgreSQL** and **Prisma**
 * 📚 Aiming to study **Artificial Inteligence**
 * ⚒️ Developing **'[Cadê meu pet?](https://github.com/saesel/cademeupet)'** to assist in locating lost pets
