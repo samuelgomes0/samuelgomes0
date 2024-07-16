@@ -5,9 +5,9 @@ I am a Full-Stack Developer and Information Systems student at **[Universidade F
 
 * 🎓 I’m currently studying **Information Systems** at **FURG** (4/4)
 * 🏢 I'm currently working at **Compass UOL** focusing on Chatbot Development with Twilio
-* 🌱 I’m currently learning **TypeScript**, **PostgreSQL** and **Prisma**
+* 🌱 I’m currently learning **Google Cloud Platform**
 * 📚 Aiming to study **Artificial Inteligence**
-* ⚒️ Developing **'[Cadê meu pet?](https://github.com/saesel/cademeupet)'** to assist in locating lost pets
+* ⚒️ Developing a **Scheduling System for Institutional Spaces** as my final paper
 * ⚡ Curious fact: I'm a huge fan of **Arctic Monkeys**, **Doctor Who** and **Harry Potter**
 
 ### ⚙️ Tech Stack
