@@ -7,7 +7,7 @@ I am a Full-Stack Developer and Information Systems student at **[Universidade F
 * 🏢 I'm currently working at **Compass UOL** focusing on Chatbot Development with Twilio
 * 🌱 I’m currently learning **Google Cloud Platform**
 * 📚 Aiming to study **Artificial Inteligence**
-* ⚒️ Developing a **Scheduling System for Institutional Spaces** for my final paper
+* ⚒️ Developing a **Institutional Space Reservation System** for my final paper
 * ⚡ Curious fact: I'm a huge fan of **Arctic Monkeys**, **Doctor Who** and **Harry Potter**
 
 ### ⚙️ Tech Stack
