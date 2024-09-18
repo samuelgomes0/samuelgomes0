@@ -6,7 +6,6 @@ I am a Full-Stack Developer and Information Systems student at **[Universidade F
 * 🎓 I’m currently studying **Information Systems** at **FURG** (4/4)
 * 🏢 I'm currently working at **Compass UOL** focusing on **Chatbot Development** with **Twilio**
 * 🌱 I’m currently learning **Google Cloud Platform** & **PostgreSQL**
-* 📚 Aiming to study **Artificial Inteligence**
 * ⚒️ Developing a **[Institutional Space Booking System](https://github.com/samuelgomes0/wise-rooms)** for my final paper
 * ⚡ Curious fact: I'm a huge fan of **Arctic Monkeys**, **Doctor Who** and **Harry Potter**
 
