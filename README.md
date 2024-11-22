@@ -4,8 +4,8 @@
 I am a Full-Stack Developer and Information Systems student at **[Universidade Federal do Rio Grande](https://www.furg.br/en/)**, currently working as a Twilio Chatbot Developer at **[Compass UOL](https://compass.uol/en/home/)**. I reside in Rio Grande, Brazil.
 
 * 🎓 I’m currently studying **Information Systems** at **FURG** (4/4)
-* 🏢 I'm currently working at **Compass UOL** focusing on **Chatbot Development** with **Twilio**
-* 🌱 I’m currently learning **Google Cloud Platform**, **PostgreSQL** and **C#**
+* 🏢 I'm currently working at **Compass UOL** focusing on **Chatbot Development** with **Twilio** and **Google Cloud Platform**
+* 🌱 I’m currently learning **Python** and **Artificial Inteligence**
 * ⚒️ Developing a **[Institutional Space Booking System](https://github.com/samuelgomes0/wise-rooms)** for my final paper
 * ⚡ Curious fact: I'm a huge fan of **Arctic Monkeys**, **Doctor Who** and **Harry Potter**
 
