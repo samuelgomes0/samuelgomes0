@@ -14,6 +14,7 @@ I am a Full-Stack Developer and Information Systems student at **[Universidade F
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwind-css)
+![ReactJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Prisma ORM](https://img.shields.io/badge/-Prisma_ORM-05122A?style=flat&logo=prisma)
 ![Twilio](https://img.shields.io/badge/-Twilio-05122A?style=flat&logo=twilio)
