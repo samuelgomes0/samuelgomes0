@@ -5,13 +5,14 @@ I'm a passionate **Full Stack Developer** and **Conversational AI Engineer** wit
 
 * 🎓 **Bachelor in Information Systems** – Completed at [Universidade Federal do Rio Grande](https://www.furg.br/en/).
 * 🏢 **Chatbot Developer** at Compass UOL – Specializing in Chatbot Development with Twilio and Google Cloud.
-* 🌱 Constantly expanding my skills in modern technologies to create intuitive, robust, and scalable applications.
+* 🌱 Constantly expanding my skills in modern technologies such as **Machine Learning** with **Scikit-learn**.
 * ⚒️ Working with a tech stack that includes **Twilio**, **Google Cloud**, **TypeScript**, **Node.js** and **ReactJS**.
 * ⚡ Fun Fact: I'm a huge fan of **Arctic Monkeys**, **Doctor Who**, and **Harry Potter**!
 
 ### ⚙️ Tech Stack
 ![Twilio](https://img.shields.io/badge/-Twilio-05122A?style=flat&logo=twilio)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google%20cloud)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)
