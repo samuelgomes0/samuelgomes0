@@ -10,15 +10,19 @@ I'm a passionate **Full Stack Developer** and **Conversational AI Engineer** wit
 * ⚡ Fun Fact: I'm a huge fan of **Arctic Monkeys**, **Doctor Who**, and **Harry Potter**!
 
 ### ⚙️ Tech Stack
-![Twilio](https://img.shields.io/badge/-Twilio-05122A?style=flat&logo=twilio)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google%20cloud)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwind-css)
-![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)
+![NextJS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
+![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify)
 ![Prisma ORM](https://img.shields.io/badge/-Prisma_ORM-05122A?style=flat&logo=prisma)
+
+![Twilio](https://img.shields.io/badge/-Twilio-05122A?style=flat&logo=twilio)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google%20cloud)
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ### 📬 Get in Touch
