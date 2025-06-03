@@ -3,8 +3,6 @@
 ### 🤔 About Me
 I'm a passionate **Full-Stack Developer** focused on **chatbots and conversational AI solutions**. With 3+ years of experience building scalable applications, I currently work as a **Chatbot Developer** at [Compass UOL](https://compass.uol/en/home/), developing intelligent communication systems using **Twilio** and **Google Cloud Platform**.
 
-I hold a Bachelor's degree in Information Systems from [Universidade Federal do Rio Grande](https://www.furg.br/en/) and I'm always eager to learn new technologies and tackle innovative challenges.
-
 * 🎓 **Bachelor in Information Systems** – [Universidade Federal do Rio Grande](https://www.furg.br/en/)
 * 🏢 **Chatbot Developer** at Compass UOL – Building omnichannel solutions with Twilio and GCP
 * 🤖 Specializing in **conversational AI**, **contact centers**, and **digital communication** solutions
