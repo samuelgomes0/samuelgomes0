@@ -1,19 +1,19 @@
 ## Hello there 👋
 
 ### 🤔 About Me
-I'm a passionate **Full-Stack Developer** focused on **chatbots and conversational AI solutions**. With 4+ years of experience building scalable applications, I currently work as a **Chatbot Engineer** at [Compass UOL](https://compass.uol/en/home/), developing intelligent communication systems using **Twilio** and **Google Cloud Platform**.
+I'm a passionate **Full-Stack Developer** focused on **chatbots and conversational AI solutions**. With 5+ years of experience building scalable applications, I currently work as a **Chatbot Engineer** at [Compass UOL](https://compass.uol/en/home/), developing intelligent communication systems using **Twilio** and **Google Cloud Platform**.
 
 * 🎓 **Bachelor in Information Systems** – [Universidade Federal do Rio Grande](https://www.furg.br/en/)
 * 🏢 **Chatbot Engineer** at Compass UOL – Designing and building omnichannel solutions with Twilio and GCP
 * 🤖 Specializing in **conversational AI**, **contact centers**, and **digital communication** solutions
-* 🌱 Currently expanding skills in **Machine Learning** and **advanced cloud architectures**
+* 🌱 Currently expanding skills in **Java** and **advanced cloud architectures**
 * ⚒️ Working with **Twilio**, **Google Cloud**, **TypeScript**, **Node.js**, **React**, and **Next.js**
 * ⚡ Fun fact: Huge fan of **Arctic Monkeys**, **Doctor Who**, and **Harry Potter**!
 
 
 ### ⚙️ Tech Stack
 
-#### 🤖 Chatbots & AI
+#### 🤖 Cloud & AI
 ![Twilio](https://img.shields.io/badge/-Twilio-05122A?style=flat&logo=twilio)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google%20cloud)
 
@@ -27,10 +27,12 @@ I'm a passionate **Full-Stack Developer** focused on **chatbots and conversation
 
 #### 🎨 Styling & Database
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwind-css)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![Prisma ORM](https://img.shields.io/badge/-Prisma_ORM-05122A?style=flat&logo=prisma)
 
 #### 🛠️ Tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
 ### 📬 Get in Touch
 * **[Email](mailto:samuel_gomes26@hotmail.com)**
