@@ -20,6 +20,7 @@ I'm a passionate **Full-Stack Developer** focused on **chatbots and conversation
 #### 💻 Development
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)
 ![NextJS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
