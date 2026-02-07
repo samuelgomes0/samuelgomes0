@@ -6,8 +6,8 @@ I'm a passionate **Full-Stack Developer** focused on **chatbots and conversation
 * 🎓 **Bachelor in Information Systems** – [Universidade Federal do Rio Grande](https://www.furg.br/en/)
 * 🏢 **Chatbot Engineer** at Compass UOL – Designing and building omnichannel solutions with Twilio and GCP
 * 🤖 Specializing in **conversational AI**, **contact centers**, and **digital communication** solutions
-* 🌱 Currently expanding skills in **Java** and **advanced cloud architectures**
-* ⚒️ Working with **Twilio**, **Google Cloud**, **TypeScript**, **Node.js**, **React**, and **Next.js**
+* 🌱 Currently expanding skills in **Swift** and **advanced cloud architectures**
+* ⚒️ Working with **Twilio**, **Google Cloud**, **TypeScript**, **Node.js**, **NestJS** **React**, and **Next.js**
 * ⚡ Fun fact: Huge fan of **Arctic Monkeys**, **Doctor Who**, and **Harry Potter**!
 
 
